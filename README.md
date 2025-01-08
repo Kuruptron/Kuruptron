@@ -2,8 +2,8 @@
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/ff88e96f-0149-4d88-87ab-1f414b2986e3)
 <hr color="blue">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Spkthegreat1234&show_icons=true&locale=en&layout=compact&theme=dark" alt="Sachin stats" /></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spkthegreat1234&show_icons=true&locale=en&theme=dark" alt="Sachin streak stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuruptron&show_icons=true&locale=en&layout=compact&theme=dark" alt="Sachin stats" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuruptron&show_icons=true&locale=en&theme=dark" alt="Sachin streak stats" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachinveyron?theme=dark&font=Over%20the%20Rainbow)
 
